@@ -2,6 +2,8 @@
 
 ## To view the video
 * [Click here](https://youtu.be/Ivz-E2eBUZM)
+* [Click here](https://img.shields.io/youtube/views/Ivz-E2eBUZM?style=social)
+
 * Click on the image below
 
 [![Facebook's Wav2Vec using Hugging Face's transformer for Speech Recognition](http://img.youtube.com/vi/Ivz-E2eBUZM/0.jpg)](http://www.youtube.com/watch?v=Ivz-E2eBUZM)
