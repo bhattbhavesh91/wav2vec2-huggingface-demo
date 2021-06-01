@@ -4,6 +4,9 @@
 
 <a href="https://www.buymeacoffee.com/bhattbhavesh91" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
+## Click to open the Notebook directly in Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bhattbhavesh91/wav2vec2-huggingface-demo/blob/main/wav2vec2-hugging-face_notebook.ipynb)
+
 ## To view the video
 
 <table>
